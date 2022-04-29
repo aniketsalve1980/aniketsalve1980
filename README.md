@@ -7,7 +7,8 @@
 
 I'm
 LEAD SOFTWARE ENGINEER
-learning web technologies such as HTML,CSS,Javascript. Having knowledge on Domino Administration (R12/11/10/9/R8.5, R8, R7 & R6.5), HCL Traveler, Microsoft Exchange 2007/2010/2013, O365, Symantec Enterprise Vault. Co-Author of HCL Domino on Docker Whitepaper.
+interesting in web technologies such as HTML, CSS, Javascript, NodeJs, React,Python. Having knowledge on Domino Administration (R12/11/10/9/R8.5, R8, R7 & R6.5), 
+HCL Traveler, Microsoft Exchange 2007/2010/2013, O365, Symantec Enterprise Vault. Co-Author of HCL Domino on Docker Whitepaper.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/aniketsalve1980/count.svg)
