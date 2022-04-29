@@ -1,9 +1,9 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://www.youtube.com/channel/UCdpIW4tItQ7P-EOgarXYRqg)](https://www.youtube.com/channel/UCdpIW4tItQ7P-EOgarXYRqg)
-[![Linkedin Badge](https://www.linkedin.com/in/aniket-salve-6546a022/)](https://www.linkedin.com/in/aniket-salve-6546a022/)
-[![Website Badge](https://aniketsalve1980.github.io/profilecode/)
-[![Website Badge](https://stackoverflow.com/users/18984913/aniket-salve)](https://stackoverflow.com/users/18984913/aniket-salve)
+[![YouTube Badge] https://www.youtube.com/channel/UCdpIW4tItQ7P-EOgarXYRqg
+[![Linkedin Badge] https://www.linkedin.com/in/aniket-salve-6546a022/
+[![Website Badge] https://aniketsalve1980.github.io/profilecode/
+[![Website Badge] https://stackoverflow.com/users/18984913/aniket-salve
 
 I'm
 LEAD SOFTWARE ENGINEER
