@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Aniket-red)](https://www.youtube.com/channel/UCdpIW4tItQ7P-EOgarXYRqg)
-[![Linkedin Badge](https://img.shields.io/badge/-Aniket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniket-salve-6546a022/))](https://www.linkedin.com/in/aniket-salve-6546a022/)
+[![Linkedin Badge](https://img.shields.io/badge/-Aniket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniket-salve-6546a022/))](https://www.linkedin.com/in/aniket-salve-6546a022/
 [![Website Badge](https://img.shields.io/badge/WebSite-Aniket-green)](https://aniketsalve1980.github.io/profilecode/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aniket-yellow)](https://stackoverflow.com/users/18984913/aniket-salve)
 
