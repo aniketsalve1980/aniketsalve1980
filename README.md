@@ -6,8 +6,8 @@
 [![Website Badge](https://stackoverflow.com/users/18984913/aniket-salve)
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+LEAD SOFTWARE ENGINEER
+Learning web technologies such as HTML,CSS,Javascript. Having knowledge on Domino Administration (R12/11/10/9/R8.5, R8, R7 & R6.5), HCL Traveler, Microsoft Exchange 2007/2010/2013, O365, Symantec Enterprise Vault. Co-Author of HCL Domino on Docker Whitepaper.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/aniketsalve1980/count.svg)
