@@ -1,12 +1,12 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-AniketSalve-red)](https://www.youtube.com/channel/UCdpIW4tItQ7P-EOgarXYRqg)
-[![Linkedin Badge] https://www.linkedin.com/in/aniket-salve-6546a022/
-[![Website Badge] https://aniketsalve1980.github.io/profilecode/
-[![Website Badge] https://stackoverflow.com/users/18984913/aniket-salve
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Aniket-red)](https://www.youtube.com/channel/UCdpIW4tItQ7P-EOgarXYRqg)
+[![Linkedin Badge](https://img.shields.io/badge/-Aniket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniket-salve-6546a022/))](https://www.linkedin.com/in/aniket-salve-6546a022/))
+[![Website Badge](https://img.shields.io/badge/WebSite-Aniket-green)](https://aniketsalve1980.github.io/profilecode/)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Aniket-yellow)](https://stackoverflow.com/users/18984913/aniket-salve)
 
 I'm
-LEAD SOFTWARE ENGINEER
+Lead Software Engineer
 interesting in web technologies such as HTML, CSS, Javascript, NodeJs, React, Python. Having knowledge on Domino Administration (R12/11/10/9/R8.5, R8, R7 & R6.5), 
 HCL Traveler, Microsoft Exchange 2007/2010/2013, O365, Symantec Enterprise Vault. Co-Author of HCL Domino on Docker Whitepaper.
 
